@@ -4,9 +4,9 @@ import * as actions from '../actions/marktext'
 
 export default function (keybindings) {
   return {
-    label: 'Mark Text',
+    label: 'T21', // JAG>Was 'Mark Text'
     submenu: [{
-      label: 'About Mark Text',
+      label: 'About T21', // JAG>Was 'Mark Text'
       click (menuItem, browserWindow) {
         showAboutDialog(browserWindow)
       }

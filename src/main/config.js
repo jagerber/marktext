@@ -24,7 +24,7 @@ export const preferencesWinOptions = {
     webSecurity: false
   },
   fullscreenable: false,
-  fullscreen: false,
+  fullscreen: true, // JAG>changed
   resizable: false,
   minimizable: false,
   maximizable: false,

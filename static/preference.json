@@ -46,7 +46,7 @@
   "isGitlabCompatibilityEnabled": false,
   "sequenceTheme": "hand",
 
-  "theme": "light",
+  "theme": "graphite",
   "autoSwitchTheme": 2,
 
   "spellcheckerEnabled": false,
